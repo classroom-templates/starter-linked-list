@@ -2,7 +2,7 @@
  * @file main.h
  * @author Alex Katrompas
  * @assignment Linked List
- * @brief Declares the application driver and reporting functions.
+ * @brief Declares the application driver.
  */
 
 #ifndef MAIN_H
