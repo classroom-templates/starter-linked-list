@@ -636,8 +636,6 @@ Extend the existing one.
 
 **Student-written test functions that return `TestResult` must not print.** Use the supplied testing helpers and return `TestResult`. Reporting and the supplied visual `printList()` verification are handled separately by the testing framework.
 
-Use the supplied testing helpers and return `TestResult`.
-
 ---
 
 ## Deletion Transition Tests
@@ -994,13 +992,11 @@ Before submitting, verify all of the following:
 - AddressSanitizer reports no memory errors;
 - no prohibited STL container is used;
 - no internal Node pointer/reference is exposed publicly;
-- README.md is complete;
-- ESSAY.md is complete;
 - `.gitignore` is appropriate;
 - at least 20 meaningful program-development commits exist;
 - the final repository is pushed.
 - You have made a proper **README.md** and **.gitignore**.
-- **There are no GitHub autograding test for this assignment. Testing is part of the assignment.**
+- **There are no GitHub autograding tests for this assignment. Testing is part of the assignment.**
 
 ---
 
