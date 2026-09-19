@@ -9,8 +9,8 @@
 #define TEST_H
 
 #include <string>
-#include "linkedlist.h"
 #include <iostream>
+#include "linkedlist.h"
 
 /**
  * @struct TestResult
