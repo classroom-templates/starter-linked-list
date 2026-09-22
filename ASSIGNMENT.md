@@ -27,10 +27,10 @@ This assignment combines several concepts developed across the course. Before be
 
 - Review the **Pointers, References, and Structured Data** lecture and notes.
 - Review the **Dynamic Memory, Ownership, and Lifetime** lecture and notes.
-- Review the **Linked Lists** lecture and notes.
+- Review the **Linked Lists** (lecture 07-lecture-linked_lists_09-22) and notes (two presentations in the Notes folder).
 - Review the earlier material on **interfaces, headers, implementation, and loose coupling**.
 - Review the course material and previous assignments dealing with systematic **testing**.
-- Watch the lecture on this assignment, **Assignment 5: Linked Lists**.
+- Watch the lecture on this assignment, **Assignment 5: Linked Lists** (08-assignment-5-linkedlitst).
 
 ---
 
